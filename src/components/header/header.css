@@ -1,0 +1,28 @@
+.HeaderPrincipal{
+    background-color: black;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+.HeaderNombre{
+    display: flex;
+    
+}
+.HeaderNombre1{
+    color: #ffff;
+}
+.HeaderNombre2{
+    color: #B3834D;
+}.HeaderNombre3{
+    color: #ffff;
+}
+
+.HeaderMenu{
+    max-width: 35%;
+    min-width: 35%;
+    color: #B3834D;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+}
