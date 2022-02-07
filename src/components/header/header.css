@@ -1,13 +1,17 @@
 .HeaderPrincipal{
-    background-color: black;
     display: flex;
     align-content: center;
     justify-content: space-between;
+    height: 15vh;
 }
 .HeaderNombre{
     display: flex;
-    
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
 }
+
 .HeaderNombre1{
     color: #ffff;
 }
@@ -18,8 +22,8 @@
 }
 
 .HeaderMenu{
-    max-width: 35%;
-    min-width: 35%;
+    max-width: 25%;
+    min-width: 25%;
     color: #B3834D;
     display: flex;
     flex-wrap: wrap;

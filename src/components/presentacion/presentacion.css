@@ -1,0 +1,22 @@
+.Fondo{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+.Logo{
+    width: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.Nombre {
+    margin: 0px 100px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.021);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+}
