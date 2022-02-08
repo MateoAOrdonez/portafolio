@@ -1,5 +1,5 @@
 .Principal {
-  background-image: url(./images/background2.jpg);
+  background-image: url(./images/cool-background.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -10,7 +10,7 @@
 }
 
 .Principal::after{
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
   top: 0px;
   content: "";
