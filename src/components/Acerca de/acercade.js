@@ -5,7 +5,7 @@ import Personal from "./personal/personal";
 const acercade = () => {
     return (
         <div className="informacionPrincipal">
-            <h2>Información persona</h2>
+            <h2>Información personal</h2>
             <Personal/>
         </div>
     )
