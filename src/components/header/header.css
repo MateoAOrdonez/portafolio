@@ -1,10 +1,14 @@
 .HeaderPrincipal{
+    position: fixed;
+    width: 100%;
+}
+
+.HeaderFlex {
     display: flex;
     align-content: center;
     justify-content: space-between;
-    position: fixed;
-    width: 91%;
 }
+
 .HeaderNombre{
     display: flex;
     flex-wrap: wrap;

@@ -9,8 +9,7 @@
 
 .Logo{
     width: 300px;
-    display: flex;
-    align-items: center;
+    border-radius: 5rem;
 }
 
 .Nombre {

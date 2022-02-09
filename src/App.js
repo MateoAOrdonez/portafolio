@@ -8,16 +8,19 @@ function App() {
   return (
     <div>
       <div className='Principal'>
-        <Container>
-          <Header/>
-          <Presentacion/>
-          <Acercade/>
-        </Container>
+        <div>
+          <Header />
+          <Container>
+            <Presentacion />
+            <Acercade />
+          </Container>
+        </div>
+
       </div>
-      
+
     </div>
-      
-    
+
+
   );
 }
 
