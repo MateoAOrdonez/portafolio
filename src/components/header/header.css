@@ -1,9 +1,17 @@
 .HeaderPrincipal{
+    position: fixed;
+    width: 100%;
+}
+
+.HeaderPrincipal.active {
+    background-color: #000;
+}
+
+.headerAjusteContainer {
     display: flex;
     align-content: center;
     justify-content: space-between;
-    position: fixed;
-    width: 91%;
+    margin: 10px 0px;
 }
 .HeaderNombre{
     display: flex;

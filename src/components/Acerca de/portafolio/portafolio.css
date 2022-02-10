@@ -1,12 +1,11 @@
-.skills {
+.PortafolioBotones {
     display: flex;
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
     align-items: center;
 }
-
-.skillsPersonal {
-    width: 150px;
+.PortafolioImg {
+    width: 200px;
     margin: 0px 20px;
 }
